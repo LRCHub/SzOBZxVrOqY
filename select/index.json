@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Déjame Entrar",
+  "base_artist": "Rauw Alejandro",
+  "createdAt": "2026-02-24T15:50:57.591885Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dejame Entrar",
+      "artist": "Carlos Vives",
+      "has_synced": true,
+      "path": "select/01_Dejame_Entrar_Carlos_Vives.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Déjame Entrar",
+      "artist": "Banda Cuisillos",
+      "has_synced": true,
+      "path": "select/02_Déjame_Entrar_Banda_Cuisillos.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Déjame Entrar",
+      "artist": "Maná",
+      "has_synced": false,
+      "path": "select/03_Déjame_Entrar_Maná.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Déjame Entrar",
+      "artist": "Maná",
+      "has_synced": true,
+      "path": "select/04_Déjame_Entrar_Maná.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Déjame Entrar (feat. La Estrella de David)",
+      "artist": "La Bien Querida feat. La Estrella de David",
+      "has_synced": true,
+      "path": "select/05_Déjame_Entrar_(feat._La_Estrella_de_David)_La_Bien_Querida_feat._La_Estrella_de_David.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Déjame Entrar",
+      "artist": "La Bien Querida; La Estrella de David",
+      "has_synced": true,
+      "path": "select/06_Déjame_Entrar_La_Bien_Querida;_La_Estrella_de_David.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Déjame entrar",
+      "artist": "Maná",
+      "has_synced": true,
+      "path": "select/07_Déjame_entrar_Maná.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Déjame Entrar",
+      "artist": "Makano",
+      "has_synced": true,
+      "path": "select/08_Déjame_Entrar_Makano.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dejame Entrar",
+      "artist": "Makano",
+      "has_synced": true,
+      "path": "select/09_Dejame_Entrar_Makano.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Déjame Entrar",
+      "artist": "Serú Girán",
+      "has_synced": true,
+      "path": "select/10_Déjame_Entrar_Serú_Girán.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Déjame entrar",
+      "artist": "BR",
+      "has_synced": false,
+      "path": "select/11_Déjame_entrar_BR.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dejame entrar",
+      "artist": "Serú Girán",
+      "has_synced": true,
+      "path": "select/12_Dejame_entrar_Serú_Girán.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Déjame Entrar",
+      "artist": "Makano",
+      "has_synced": true,
+      "path": "select/13_Déjame_Entrar_Makano.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Déjame Entrar",
+      "artist": "Carlos Vives",
+      "has_synced": true,
+      "path": "select/14_Déjame_Entrar_Carlos_Vives.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Déjame Entrar En Tu Vida",
+      "artist": "Arnulfo Jr. \"Rey y As\"",
+      "has_synced": false,
+      "path": "select/15_Déjame_Entrar_En_Tu_Vida_Arnulfo_Jr.__Rey_y_As.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Déjame Entrar (Funk Version)",
+      "artist": "Dasoul",
+      "has_synced": true,
+      "path": "select/16_Déjame_Entrar_(Funk_Version)_Dasoul.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Dejame Entrar (feat. Secreto, Black Point & Randy)",
+      "artist": "De La Ghetto",
+      "has_synced": false,
+      "path": "select/17_Dejame_Entrar_(feat._Secreto,_Black_Point_&_Randy)_De_La_Ghetto.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Déjame Entrar",
+      "artist": "Rauw Alejandro",
+      "has_synced": false,
+      "path": "select/pl_01_Déjame_Entrar_Rauw_Alejandro.txt"
+    }
+  ]
+}
